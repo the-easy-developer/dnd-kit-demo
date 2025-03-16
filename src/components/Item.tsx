@@ -17,7 +17,7 @@ export function Item(props: ItemProps) {
 
   const style = transform
     ? {
-        transform: `translate3d(${transform.x}px, ${transform.y}px, 0)`,
+        transform: `translate3d(0px, ${transform.y}px, 0)`,
         transition,
       }
     : undefined;
