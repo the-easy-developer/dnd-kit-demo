@@ -52,3 +52,5 @@ export default tseslint.config({
   },
 })
 ```
+
+## Svg Icons are taken from https://www.svgrepo.com/
